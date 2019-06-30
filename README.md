@@ -1,2 +1,2 @@
 # First-steps-in-ML
-Maybe it will work
+Первые попытки анализирования текста 
